@@ -1,35 +1,74 @@
-# 👋 Olá, eu sou o Ivo Faria  
-### Técnico em Tecnologias e Programação de Sistemas de Informação
+# Personal Portfolio Website – Ivo Faria
 
-Sou apaixonado por tecnologia, programação e criação de soluções digitais.  
-Atualmente estou a concluir o CTeSP em Tecnologias e Programação de Sistemas de Informação (IEES)  
-e estou focado em desenvolver competências em:
+Este repositório contém o código-fonte do meu website pessoal e portefólio profissional.
 
-- 🖥️ Desenvolvimento Web  
-- 🗄️ SQL e Bases de Dados  
-- 🧪 Quality Assurance / Testes  
-- 🛠️ Programação (Java, C++, JavaScript)  
-- ⚙️ Ambientes de Integração e Suporte Técnico  
-
-Neste GitHub vais encontrar projetos que demonstram as minhas bases técnicas,  
-o meu progresso na aprendizagem e a minha determinação em entrar no setor tecnológico.
+O objetivo principal deste projeto é apresentar, de forma clara e honesta, o meu perfil técnico, percurso profissional e competências atuais, com foco em funções júnior de **QA Tester** e **Suporte Técnico IT**.
 
 ---
 
-## 🚀 Projetos em desenvolvimento
+## 🎯 Objetivo do Projeto
 
-- Sistema de Encomendas (SQL)  
-- WebApp Login + CRUD (HTML | CSS | JavaScript)  
-- Aplicação OOP em Java/C++  
-- Projeto de Testes (Postman / Python)  
+- Centralizar informação profissional (CV, competências e experiência)
+- Servir como base de apoio a candidaturas de emprego
+- Consolidar conhecimentos práticos em tecnologias web e organização de projetos
+- Exercitar boas práticas de estrutura, legibilidade e manutenção de código
 
-*(Os projetos serão atualizados à medida que forem concluídos.)*
+Este projeto **não tem como objetivo demonstrar código avançado**, mas sim clareza, organização e capacidade de compreender e adaptar soluções técnicas.
+
+---
+
+## 🧩 Tecnologias Utilizadas
+
+- **React** – Interface do utilizador
+- **JavaScript (ES6+)**
+- **HTML5 / CSS3**
+- **Componentes UI reutilizáveis**
+- **Git & GitHub** – controlo de versões
 
 ---
 
-## 📫 Contacto
+## 🛠️ Abordagem Técnica
 
-**Email:** ivo1998@live.com.pt  
-**Website:** www.ivo-faria.pt  
+- Estrutura modular por componentes
+- Separação entre dados (`mock/data`) e apresentação
+- Navegação SPA com React Router
+- Gestão simples e explícita de estado
+- Foco em legibilidade e manutenção do código
+
+O projeto foi desenvolvido como um **exercício prático de consolidação**, com recurso a documentação oficial e ferramentas modernas de apoio ao desenvolvimento.
 
 ---
+
+## 🧪 Qualidade e Testes
+
+Embora não existam testes automatizados formais, foram realizados:
+- testes manuais de navegação
+- validação de rotas (404 / manutenção)
+- verificação de responsividade
+- revisão visual e funcional dos componentes
+
+---
+
+## 🚧 Estado do Projeto
+
+- Em evolução contínua
+- Atualizado conforme aprendizagem e experiência
+- Pode sofrer alterações estruturais e visuais
+
+---
+
+## 👤 Sobre mim
+
+Sou estudante de **CTSP em Tecnologias e Programação de Sistemas de Informação** (IEES – Fafe), com interesse em **qualidade de software, troubleshooting e automação em Python**.
+
+Procuro oportunidades júnior onde possa aprender, evoluir tecnicamente e contribuir de forma responsável em ambiente real.
+
+🔗 Website: https://ivo-faria.pt  
+📧 Email: ivo1998@live.com.pt
+
+---
+
+## ⚠️ Nota de Transparência
+
+Este projeto foi desenvolvido como parte do meu processo de aprendizagem. Foram utilizadas ferramentas modernas de apoio ao desenvolvimento, sempre com foco na compreensão do funcionamento do código e não apenas na geração automática de resultados.
+
