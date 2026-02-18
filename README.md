@@ -1,74 +1,85 @@
-# Personal Portfolio Website – Ivo Faria
+# 👋 Ivo Faria
 
-Este repositório contém o código-fonte do meu website pessoal e portefólio profissional.
+## 👨‍💻 Perfil Profissional
 
-O objetivo principal deste projeto é apresentar, de forma clara e honesta, o meu perfil técnico, percurso profissional e competências atuais, com foco em funções júnior de **QA Tester** e **Suporte Técnico IT**.
+Sou um profissional em formação na área de **Tecnologias e Programação de Sistemas de Informação**, com forte foco em **Qualidade de Software, Suporte Técnico IT e Automação**, e uma orientação clara para projetos práticos, funcionais e com impacto real.
 
----
-
-## 🎯 Objetivo do Projeto
-
-- Centralizar informação profissional (CV, competências e experiência)
-- Servir como base de apoio a candidaturas de emprego
-- Consolidar conhecimentos práticos em tecnologias web e organização de projetos
-- Exercitar boas práticas de estrutura, legibilidade e manutenção de código
-
-Este projeto **não tem como objetivo demonstrar código avançado**, mas sim clareza, organização e capacidade de compreender e adaptar soluções técnicas.
+Valorizo métodos tradicionais de engenharia de software — rigor, documentação, estrutura e responsabilidade técnica — aliados a uma visão moderna onde a **Inteligência Artificial** é usada como ferramenta estratégica para produtividade, não como substituto do pensamento humano.
 
 ---
 
-## 🧩 Tecnologias Utilizadas
+## 🚀 Projetos em Destaque
 
-- **React** – Interface do utilizador
-- **JavaScript (ES6+)**
-- **HTML5 / CSS3**
-- **Componentes UI reutilizáveis**
-- **Git & GitHub** – controlo de versões
+### 🤖 EVO — Enhanced Virtual Operator
 
----
+Projeto de **assistente virtual local** inspirado em conceitos clássicos de automação (estilo Jarvis), desenvolvido com foco em:
 
-## 🛠️ Abordagem Técnica
+* Execução local (privacidade e controlo total)
+* Arquitetura modular
+* Automação de tarefas no sistema operativo
+* Integração progressiva de IA
 
-- Estrutura modular por componentes
-- Separação entre dados (`mock/data`) e apresentação
-- Navegação SPA com React Router
-- Gestão simples e explícita de estado
-- Foco em legibilidade e manutenção do código
+Tecnologias principais:
 
-O projeto foi desenvolvido como um **exercício prático de consolidação**, com recurso a documentação oficial e ferramentas modernas de apoio ao desenvolvimento.
+* Python
+* Interfaces gráficas (overlay)
+* Processamento de voz (STT / TTS)
+* Integração com modelos de linguagem
 
 ---
 
-## 🧪 Qualidade e Testes
+### 🌐 Website Pessoal — CV & Portfólio
 
-Embora não existam testes automatizados formais, foram realizados:
-- testes manuais de navegação
-- validação de rotas (404 / manutenção)
-- verificação de responsividade
-- revisão visual e funcional dos componentes
+Website profissional desenvolvido para substituir o currículo tradicional em PDF por uma **experiência digital clara, objetiva e interativa**.
 
----
+Objetivos do website:
 
-## 🚧 Estado do Projeto
+* Apresentar percurso académico e profissional
+* Demonstrar competências técnicas reais
+* Centralizar projetos, formações e contactos
 
-- Em evolução contínua
-- Atualizado conforme aprendizagem e experiência
-- Pode sofrer alterações estruturais e visuais
+Tecnologias principais:
 
----
+* React
+* JavaScript
+* HTML5 / CSS3
+* Design responsivo
 
-## 👤 Sobre mim
-
-Sou estudante de **CTSP em Tecnologias e Programação de Sistemas de Informação** (IEES – Fafe), com interesse em **qualidade de software, troubleshooting e automação em Python**.
-
-Procuro oportunidades júnior onde possa aprender, evoluir tecnicamente e contribuir de forma responsável em ambiente real.
-
-🔗 Website: https://ivo-faria.pt  
-📧 Email: ivo1998@live.com.pt
+🌍 Website: [https://ivo-faria.pt](https://ivo-faria.pt)
 
 ---
 
-## ⚠️ Nota de Transparência
+## 🛠️ Competências Técnicas
 
-Este projeto foi desenvolvido como parte do meu processo de aprendizagem. Foram utilizadas ferramentas modernas de apoio ao desenvolvimento, sempre com foco na compreensão do funcionamento do código e não apenas na geração automática de resultados.
+* Qualidade de Software (QA)
+* Suporte Técnico IT
+* Troubleshooting de sistemas
+* Automação com Python
+* Git & GitHub
+* Bases de dados (modelação e normalização)
+* Integração e uso responsável de IA
 
+---
+
+## 🎯 Filosofia de Trabalho
+
+* **Rigor antes da velocidade**
+* **Funcionalidade acima de aparência**
+* **Aprendizagem contínua**
+* **Responsabilidade técnica**
+* **Evolução sustentada, passo a passo**
+
+Acredito que tecnologia bem feita respeita o passado, resolve o presente e prepara o futuro.
+
+---
+
+## 📫 Contactos
+
+* 📍 Fafe, Braga, Portugal
+* 📧 [ivo1998@live.com.pt](mailto:ivo1998@live.com.pt)
+* 📱 +351 939 270 784
+* 🌐 [https://ivo-faria.pt](https://ivo-faria.pt)
+
+---
+
+> Este perfil está em evolução contínua. Cada repositório representa aprendizagem aplicada, não apenas código.
